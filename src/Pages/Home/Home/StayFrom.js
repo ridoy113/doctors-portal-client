@@ -19,7 +19,7 @@ const StayFrom = () => {
                     <br />
                     <input type="text" placeholder="Subject" className="input input-bordered input-primary w-full max-w-xs mb-2" />
                     <br />
-                    <textarea type="text" placeholder="Your Massage..." className="input input-bordered input-primary w-full max-w-xs mb-2" />
+                    <textarea type="text" placeholder="Your message..." className="input input-bordered input-primary w-full max-w-xs mb-2" />
                 </div>
                 <PrimaryButton>Submit</PrimaryButton>
             </div>
